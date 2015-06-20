@@ -25,7 +25,7 @@
   </a>
   <img src="https://img.shields.io/badge/GITTER-join%20chat-green.svg?style=flat-square" alt="Gitter Chat">
   <br>
-  <strong><a href="http://rust-ci.org/gfx-rs/gfx/doc/gfx/index.html">Documentation</a> | <a href="http://gfx-rs.github.io/">Blog</a> </strong>
+  <strong><a href="http://rust-ci.org/gfx-rs/gfx-rs/doc/gfx/index.html">Documentation</a> | <a href="http://gfx-rs.github.io/">Blog</a> </strong>
 </p>
 
 ## gfx-rs
